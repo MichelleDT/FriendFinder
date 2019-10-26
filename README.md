@@ -6,19 +6,20 @@ In this activity, I build a compatibility-based "FriendFinder" application -- ba
 
 LINK TO HEROKU APP
 
-Image of landing page
+<strong> Image of landing page</strong>
 
 
 ![Image description](/Home.png)
 
-Image of JSON formatted raw data
 
-image
+<strong> Image of Survey</strong>
 
-Image of Survey
+![Image description](/Survey.png)
 
-image
+<strong> Image of Inputs</strong>
 
-Image of Results
+![Image description](/Values.png)
 
-image
+<strong> Image of Results</strong>
+
+![Image description](/Results.png)
