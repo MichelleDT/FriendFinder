@@ -9,7 +9,7 @@ LINK TO HEROKU APP
 Image of landing page
 
 
-image
+![Image description](/Home.png)
 
 Image of JSON formatted raw data
 
